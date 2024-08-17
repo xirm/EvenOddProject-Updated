@@ -1,29 +1,31 @@
-# Base image
-FROM python:3.9-slim
+# Use Python 3.9 base image
+FROM python:3.9-buster
 
-# Install git and git-lfs
+# Install dependencies
 RUN apt-get update && \
     apt-get install -y git wget && \
     wget https://github.com/git-lfs/git-lfs/releases/download/v3.4.0/git-lfs-linux-amd64-v3.4.0.tar.gz && \
     tar -xzf git-lfs-linux-amd64-v3.4.0.tar.gz && \
     ./install.sh && \
     git lfs install && \
-    rm -rf git-lfs-linux-amd64-v3.4.0.tar.gz install.sh
+    rm -rf git-lfs-linux-amd64-v3.4.0.tar.gz install.sh && \
+    git --version && \
+    wget --version
 
-# Set work directory
+# Set the working directory
 WORKDIR /app
 
-# Copy requirements.txt
+# Copy the requirements file
 COPY requirements.txt .
 
-# Install dependencies
+# Install Python dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy app files
+# Copy the rest of the application code
 COPY . .
 
-# Expose port (if needed)
+# Expose port 8000
 EXPOSE 8000
 
-# Command to run your application
+# Set the default command to run the application
 CMD ["python", "predict_and_notify.py"]

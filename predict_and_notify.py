@@ -11,7 +11,7 @@ PUSHOVER_USER_KEY = 'uuobbyptujidgjvm2qgwsp4jw4dx1z'
 logging.basicConfig(filename='prediction_performance.log', level=logging.INFO, format='%(asctime)s - %(message)s')
 
 # Load the model
-model = joblib.load('C:/Users/Administrator/Desktop/EvenOdd/random_forest_model_corrected.pkl')
+model = joblib.load('/app/random_forest_model_corrected.pkl')
 
 # Define the feature order and expected features
 feature_order = ['tick', 'last_digit', 'tick_diff', 'moving_avg', 'is_even', 'is_odd', 'is_over_5', 'is_under_5']
@@ -20,11 +20,11 @@ expected_features = feature_order + ['rolling_avg_5', 'rolling_avg_10', 'volatil
 
 # Define file paths for different markets
 file_paths = {
-    'R_10': 'C:/Users/Administrator/Desktop/EvenOdd/R_10_data_preprocessed.csv',
-    'R_25': 'C:/Users/Administrator/Desktop/EvenOdd/R_25_data_preprocessed.csv',
-    'R_50': 'C:/Users/Administrator/Desktop/EvenOdd/R_50_data_preprocessed.csv',
-    'R_75': 'C:/Users/Administrator/Desktop/EvenOdd/R_75_data_preprocessed.csv',
-    'R_100': 'C:/Users/Administrator/Desktop/EvenOdd/R_100_data_preprocessed.csv'
+    'R_10': 'data/R_10_data_preprocessed.csv',
+    'R_25': 'data/R_25_data_preprocessed.csv',
+    'R_50': 'data/R_50_data_preprocessed.csv',
+    'R_75': 'data/R_75_data_preprocessed.csv',
+    'R_100': 'data/R_100_data_preprocessed.csv'
 }
 
 # Initialize counters for performance tracking
