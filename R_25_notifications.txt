@@ -1,0 +1,2014 @@
+Trade Even R_10. Next 30 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Over 5 R_25. Next 15 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Even R_10. Next 30 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Over 5 R_25. Next 15 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Even R_10. Next 30 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Over 5 R_25. Next 15 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Even R_10. Next 30 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Over 5 R_25. Next 15 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Even R_10. Next 30 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Over 5 R_25. Next 15 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Even R_10. Next 30 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Over 5 R_25. Next 15 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Even R_10. Next 30 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Over 5 R_25. Next 15 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Even R_10. Next 30 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Over 5 R_25. Next 15 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Even R_10. Next 30 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Over 5 R_25. Next 15 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.
+Trade Odd R_100. Next 20 ticks are safe.
+Trade Under 5 R_75. Next 25 ticks are safe.

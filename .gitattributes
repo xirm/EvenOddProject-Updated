@@ -1,0 +1,4 @@
+# Handle line endings consistently
+* text=auto
+# Binary files to be managed by Git LFS
+*.pkl filter=lfs diff=lfs merge=lfs -text
